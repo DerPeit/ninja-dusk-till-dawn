@@ -1,0 +1,25 @@
+{
+  "name": "ninja-dusk-till-dawn",
+  "version": "0.9.0",
+  "description": "This module reports weather events to the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "sunrise",
+    "sunset",
+    "weather",
+    "longitude",
+    "latitude",
+    "suncalc"
+  ],
+  "author": "Manuel Josupeit-Walter",
+  "license": "CC-BY-SA-3.0",
+  "dependencies": {
+    "log4js": "~0.6.9",
+    "q": "~1.0.0",
+    "suncalc": "~1,2,2"
+  }
+}
