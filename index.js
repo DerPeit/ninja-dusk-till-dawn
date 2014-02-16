@@ -32,7 +32,7 @@ function DuskTillDawn(opts, app) {
   app.on('client::up',function(){
     // The client is now connected to the Ninja Platform
     // Register a device
-    self.emit('register', new Device(self._opts));
+    self.emit('register', new Device(self._opts, self._app.log));
   });
 };
 

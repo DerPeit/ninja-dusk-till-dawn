@@ -18,7 +18,6 @@
   "author": "Manuel Josupeit-Walter",
   "license": "CC-BY-SA-3.0",
   "dependencies": {
-    "log4js": "~0.6.9",
     "q": "~1.0.0",
     "suncalc": "~1,2,2"
   }
