@@ -16,7 +16,7 @@
     "suncalc"
   ],
   "author": "Manuel Josupeit-Walter",
-  "license": "CC-BY-SA-3.0",
+  "license": "CC BY-SA 4.0",
   "dependencies": {
     "cron": "~1.0.3",
     "datejs": "~1.0.0",
