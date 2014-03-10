@@ -59,7 +59,7 @@ Known issues
 Todos
 -----
 
-1. Add a new information dialog to the configuration page to revise saved locations and emit individual events on user request in order to save them as sensors on the dashboard without waiting the whole day for them to pop up automatically.
+1. ~~Add a new information dialog to the configuration page to revise saved locations and emit individual events on user request in order to save them as sensors on the dashboard without waiting the whole day for them to pop up automatically.~~
 2. Code refactoring to make more intense use of inversion of control to support unit test development
 3. Write unit tests :-)
 4. Publish driver to the [ninja blocks wiki] (http://wiki.ninjablocks.com/drivers)
